@@ -1,7 +1,0 @@
-C:\Users\taruna\source\repos\ConsoleApp3\BackgroundTask\bin\Debug\BackgroundTask.exe.config
-C:\Users\taruna\source\repos\ConsoleApp3\BackgroundTask\bin\Debug\BackgroundTask.exe
-C:\Users\taruna\source\repos\ConsoleApp3\BackgroundTask\bin\Debug\BackgroundTask.pdb
-C:\Users\taruna\source\repos\ConsoleApp3\BackgroundTask\obj\Debug\BackgroundTask.csprojAssemblyReference.cache
-C:\Users\taruna\source\repos\ConsoleApp3\BackgroundTask\obj\Debug\BackgroundTask.csproj.CoreCompileInputs.cache
-C:\Users\taruna\source\repos\ConsoleApp3\BackgroundTask\obj\Debug\BackgroundTask.exe
-C:\Users\taruna\source\repos\ConsoleApp3\BackgroundTask\obj\Debug\BackgroundTask.pdb

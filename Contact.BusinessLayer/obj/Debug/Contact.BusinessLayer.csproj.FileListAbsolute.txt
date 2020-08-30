@@ -1,9 +1,0 @@
-C:\Users\taruna\source\repos\ConsoleApp3\Contact.BusinessLayer\obj\Debug\Contact.BusinessLayer.csprojAssemblyReference.cache
-C:\Users\taruna\source\repos\ConsoleApp3\Contact.BusinessLayer\obj\Debug\Contact.BusinessLayer.csproj.CoreCompileInputs.cache
-C:\Users\taruna\source\repos\ConsoleApp3\Contact.BusinessLayer\bin\Debug\Contact.BusinessLayer.dll
-C:\Users\taruna\source\repos\ConsoleApp3\Contact.BusinessLayer\bin\Debug\Contact.BusinessLayer.pdb
-C:\Users\taruna\source\repos\ConsoleApp3\Contact.BusinessLayer\bin\Debug\Contact.BusinessObjects.dll
-C:\Users\taruna\source\repos\ConsoleApp3\Contact.BusinessLayer\bin\Debug\Contact.BusinessObjects.pdb
-C:\Users\taruna\source\repos\ConsoleApp3\Contact.BusinessLayer\obj\Debug\Contact.BusinessLayer.csproj.CopyComplete
-C:\Users\taruna\source\repos\ConsoleApp3\Contact.BusinessLayer\obj\Debug\Contact.BusinessLayer.dll
-C:\Users\taruna\source\repos\ConsoleApp3\Contact.BusinessLayer\obj\Debug\Contact.BusinessLayer.pdb

@@ -71,7 +71,6 @@ C:\Users\taruna\Desktop\Git\ContactWPF\ContactUI\bin\Debug\System.Numerics.Vecto
 C:\Users\taruna\Desktop\Git\ContactWPF\ContactUI\bin\Debug\System.Resources.Extensions.xml
 C:\Users\taruna\Desktop\Git\ContactWPF\ContactUI\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
 C:\Users\taruna\Desktop\Git\ContactWPF\ContactUI\bin\Debug\System.Threading.Tasks.Dataflow.xml
-C:\Users\taruna\Desktop\Git\ContactWPF\ContactUI\obj\Debug\ContactUI.csprojAssemblyReference.cache
 C:\Users\taruna\Desktop\Git\ContactWPF\ContactUI\obj\Debug\MainWindow.g.cs
 C:\Users\taruna\Desktop\Git\ContactWPF\ContactUI\obj\Debug\App.g.cs
 C:\Users\taruna\Desktop\Git\ContactWPF\ContactUI\obj\Debug\ContactUI_MarkupCompile.cache

@@ -6,7 +6,6 @@ C:\Users\taruna\source\repos\ConsoleApp3\Contact.BusinessObjects\obj\Debug\Conta
 C:\Users\taruna\source\repos\ConsoleApp3\Contact.BusinessObjects\obj\Debug\Contact.BusinessObjects.pdb
 C:\Users\taruna\Desktop\Git\ContactWPF\Contact.BusinessObjects\bin\Debug\Contact.BusinessObjects.dll
 C:\Users\taruna\Desktop\Git\ContactWPF\Contact.BusinessObjects\bin\Debug\Contact.BusinessObjects.pdb
-C:\Users\taruna\Desktop\Git\ContactWPF\Contact.BusinessObjects\obj\Debug\Contact.BusinessObjects.csprojAssemblyReference.cache
 C:\Users\taruna\Desktop\Git\ContactWPF\Contact.BusinessObjects\obj\Debug\Contact.BusinessObjects.csproj.CoreCompileInputs.cache
 C:\Users\taruna\Desktop\Git\ContactWPF\Contact.BusinessObjects\obj\Debug\Contact.BusinessObjects.dll
 C:\Users\taruna\Desktop\Git\ContactWPF\Contact.BusinessObjects\obj\Debug\Contact.BusinessObjects.pdb
